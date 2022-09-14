@@ -1,2 +1,2 @@
-# Completed-Projects
-Completed Projects - for practice
+# To do app
+To do app - for practice
